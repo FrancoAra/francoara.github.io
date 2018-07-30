@@ -13,7 +13,7 @@ Free and Paid Trainings
 
 This section contains tables categorized by level, where each column represents a topic that hopefully can be presented and practiced in 2 hours. Each level has a soft dependency on the previous ones, and sometimes each topic as well.
 
-*Free Trainings:* Each week depending on popular demand I give a 2-hour session through a meetup and teach 1 topic with exercises and lots of opportunities for questions, if you are interested in learning or reviewing one of the topics below please contact me through LinkedIn or Meetup.com.
+*Free Trainings:* Each week depending on popular demand I give a 2-hour session through a meetup and teach 1 topic with exercises and lots of opportunities for questions, if you are interested in learning or reviewing one of the topics below please contact me through LinkedIn or [Meetup.com](https://www.meetup.com/FP-Academy-Ams).
 
 ### Example of topics per level
 
