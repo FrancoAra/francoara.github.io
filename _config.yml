@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+title: ❴ Purely Typed ❵
+description: Francisco Miguel Arámburo Torres.
+
+github:
+  is_project_page: false
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
