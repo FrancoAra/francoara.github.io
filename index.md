@@ -14,14 +14,6 @@ This section contains tables categorized by level, where each column represents 
 
 *Free Trainings:* Each week depending on popular demand I give a 2-hour session through a meetup and teach 1 topic with exercises and lots of opportunities for questions, if you are interested in learning or reviewing one of the topics below please contact me through LinkedIn or [Meetup.com](https://www.meetup.com/FP-Academy-Ams).
 
-### Example of topics per level
-
-| Topic 1 - 2 hours session | Topic 2 - 2 hours session | Topic 3 - 2 hours session |
-| --------- | --------- | --------- |
-| sub topic 1 | sub topic 1 | sub topic 1 |
-| sub topic 2 | sub topic 2 | sub topic 2 |
-| sub topic 3 | sub topic 3 | sub topic 3 |
-
 Functional Programming Techniques Level 1
 ----------
 
@@ -62,7 +54,7 @@ Functional Programming Techniques Level 3
 
 .
 
-| Tagless Final | Free Monad | Variance and Functors |
+| [Tagless Final]({{ "/scala/tagless-final" | absolute_url }}) | Free Monad | Variance and Functors |
 | - | - | - |
 | Free algebras | Free algebras | Subtyping and variance in Scala |
 | Interpreters | Interpreters | A small peek on category theory |
