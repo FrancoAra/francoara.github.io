@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 Welcome!
@@ -6,22 +7,12 @@ Welcome!
 
 I am a functional programmer located in the Amsterdam area. I run Purely Typed a software development consulting company specialized in distributed systems. I make efforts to train people in the fine arts of functional programming and mathematics for systems design.  And I work as much as possible on solving [another significant issue](https://medium.com/@franciscoarmburo/decision-systems-a-critical-challenge-be4bb1434fd1).
 
-I offer a weekly meetup with limited attendance to give free training on functional programming and the usage of mathematics to understand and model computer systems, the topics I will be giving can be found in the next section. If you or your company are interested in longer training related to such topics, please do contact me through [LinkedIn](https://www.linkedin.com/in/francisco-miguel-ar%C3%A1mburo-torres-0a340485/).
-
-Free and Paid Trainings
+FP Academy
 =======================
 
 This section contains tables categorized by level, where each column represents a topic that hopefully can be presented and practiced in 2 hours. Each level has a soft dependency on the previous ones, and sometimes each topic as well.
 
 *Free Trainings:* Each week depending on popular demand I give a 2-hour session through a meetup and teach 1 topic with exercises and lots of opportunities for questions, if you are interested in learning or reviewing one of the topics below please contact me through LinkedIn or [Meetup.com](https://www.meetup.com/FP-Academy-Ams).
-
-### Example of topics per level
-
-| Topic 1 - 2 hours session | Topic 2 - 2 hours session | Topic 3 - 2 hours session |
-| --------- | --------- | --------- |
-| sub topic 1 | sub topic 1 | sub topic 1 |
-| sub topic 2 | sub topic 2 | sub topic 2 |
-| sub topic 3 | sub topic 3 | sub topic 3 |
 
 Functional Programming Techniques Level 1
 ----------
@@ -63,7 +54,7 @@ Functional Programming Techniques Level 3
 
 .
 
-| Tagless Final | Free Monad | Variance and Functors |
+| [Tagless Final]({{ "/scala/tagless-final" | absolute_url }}) | Free Monad | Variance and Functors |
 | - | - | - |
 | Free algebras | Free algebras | Subtyping and variance in Scala |
 | Interpreters | Interpreters | A small peek on category theory |
