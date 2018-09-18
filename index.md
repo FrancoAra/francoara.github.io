@@ -7,6 +7,13 @@ Welcome!
 
 I am a functional programmer located in the Amsterdam area. I run Purely Typed a software development consulting company specialized in distributed systems. I make efforts to train people in the fine arts of functional programming and mathematics for systems design.  And I work as much as possible on solving [another significant issue](https://medium.com/@franciscoarmburo/decision-systems-a-critical-challenge-be4bb1434fd1).
 
+Trainings
+======================
+
+* [Functional Programming Techniques in Scala Level 1](/assets/pdf/Functional Programming Techniques in Scala Level 1.pdf)
+
+Other trainings can be done on demand or trailored to the group/organization needs, please contact me.
+
 FP Academy
 =======================
 
